@@ -1,0 +1,13 @@
+{
+  "name": "profile-hero-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Regenerates assets/gitskins-hero.png from the current GitHub avatar",
+  "scripts": {
+    "generate-hero": "node scripts/generate-hero.js"
+  },
+  "dependencies": {
+    "dotted-map": "^3.1.0",
+    "sharp": "^0.33.0"
+  }
+}
