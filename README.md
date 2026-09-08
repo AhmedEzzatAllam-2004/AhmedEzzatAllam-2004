@@ -1,16 +1,22 @@
-## Selected work
-
 <div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ahmedezzatallam-2004&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227164531%3Fu%3Daff10aa69cd926dbb32640a73a30ee6839893b66%26v%3D4" alt="ahmedezzatallam-2004 hero visual" />
-</p>
-
-<h1>Ahmed Ezzat</h1>
-<p><b>Data Science & AI Student @ Zewail City | Full-Stack Developer</b></p>
-
+<!-- تأثير الكتابة الافتتاحي -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+with+React+•+TypeScript+•+Python;Developing+Intelligent+Web+%26+Mobile+Apps;Always+coding+•+learning+•+shipping+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=2ECA7F&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Hi+👋+I'm+Ahmed+Ezzat" alt="Typing Greeting" />
+</a>
+
+<br/>
+
+<!-- الصورة الشخصية -->
+<a href="https://github.com/ahmedezzatallam-2004">
+  <img src="https://github.com/ahmedezzatallam-2004.png" width="160" style="border-radius: 50%;" alt="Ahmed Ezzat Avatar" />
+</a>
+
+<br/><br/>
+
+<!-- تأثير الكتابة الخاص بالمهارات -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Student+@+Zewail+City;Building+with+React+•+TypeScript+•+Python;Developing+Intelligent+Web+%26+Mobile+Apps" alt="Typing Skills" />
 </a>
 
 </div>
