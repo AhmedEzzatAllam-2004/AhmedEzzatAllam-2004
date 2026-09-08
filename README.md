@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ahmedezzatallam-2004&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227164531%3Fu%3Daff10aa69cd926dbb32640a73a30ee6839893b66%26v%3D4" alt="ahmedezzatallam-2004 hero visual" />
+  <img src="https://raw.githubusercontent.com/ahmedezzatallam-2004/ahmedezzatallam-2004/main/assets/gitskins-hero.png" alt="ahmedezzatallam-2004 hero visual" />
 </p>
 
 <h1>Ahmed Ezzat</h1>
