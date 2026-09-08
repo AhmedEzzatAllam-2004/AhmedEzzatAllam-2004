@@ -9,6 +9,10 @@
 <h1>Ahmed Ezzat</h1>
 <p><b>Data Science & AI Student @ Zewail City | Full-Stack Developer</b></p>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+with+React+•+TypeScript+•+Python;Developing+Intelligent+Web+%26+Mobile+Apps;Always+coding+•+learning+•+shipping+🚀" alt="Typing Animation" />
+</a>
+
 </div>
 
 ## 👨‍💻 About Me
