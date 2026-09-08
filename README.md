@@ -1,11 +1,10 @@
+## Selected work
+
 <div align="center">
 
-<!-- تأثير الـ ASCII Name في الأعلى -->
 <p align="center">
   <img src="https://www.gitskins.com/api/section/ascii-name?username=ahmedezzatallam-2004&theme=neon" alt="ahmedezzatallam-2004 ascii name" />
 </p>
-
-## Selected work
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=ahmedezzatallam-2004&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227164531%3Fu%3Daff10aa69cd926dbb32640a73a30ee6839893b66%26v%3D4" alt="ahmedezzatallam-2004 hero visual" />
