@@ -76,8 +76,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedezzatallam-2004&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedezzatallam-2004&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedezzatallam-2004&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedezzatallam-2004&theme=tokyonight&hide_border=true" height="195" alt="Ahmed's GitHub Streak" />
 </div>
 
 ## 🖥️ Profile.MAP System
