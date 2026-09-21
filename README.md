@@ -76,7 +76,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedezzatallam-2004&theme=tokyo-night&hide_border=true&area=true" height="195" alt="Ahmed's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedezzatallam-2004&theme=tokyo-night&hide_border=true&area=true&v=1" height="195" alt="Ahmed's Activity Graph" />
   <img src="https://streak-stats.demolab.com/?user=ahmedezzatallam-2004&theme=tokyonight&hide_border=true" height="195" alt="Ahmed's GitHub Streak" />
 </div>
 
